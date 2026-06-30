@@ -10,8 +10,9 @@ book:
     title: "MASA R"
     logo: "https://www.surrey.ac.uk/themes/custom/surrey/assets/dist/img/uos-logo.svg"
     right:
-      - text: "{{< iconify fa6-brands github size=lg title='CRIT GitHub' >}}"
+      - icon: github
         href: https://github.com/aliceccheng/masa-r
+        aria-label: GitHub
   page-footer:
     left: "© 2026 University of Surrey"
     right: "Built with Quarto"
